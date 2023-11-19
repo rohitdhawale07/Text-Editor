@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+## Hosted link:- https://text-editor-1uwt.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
